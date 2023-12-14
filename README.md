@@ -1,5 +1,4 @@
-# EC_descr_gen
-
+# Генерация описаний товаров на основе фотографии
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RTGB1etgSAcoOScLUOmByagtjPGwNKlW?usp=sharing)
 
 TL;DR: BLEU-4 – 0.066, BERTScore – 0.133. (В статье BLEU-4 – 0.068) 
